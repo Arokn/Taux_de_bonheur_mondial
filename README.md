@@ -1,4 +1,4 @@
-# Taux_de_bonheur_mondial
+# Taux de bonheur mondial
 
 Projet réalisé en M1 IDD — l'idée de départ est simple : peut-on prédire le bonheur d'un pays à partir de données chiffrées ?
 
